@@ -18,7 +18,7 @@ class RobertMtA:
             "Desarrollo Web",
             "Inteligencia Artificial", 
             "Front-end",
-            "React"
+            "React",
             "Backend"
         ]
     
