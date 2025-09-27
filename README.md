@@ -17,8 +17,9 @@ class RobertMtA:
         self.interests = [
             "Desarrollo Web",
             "Inteligencia Artificial", 
-            "Ciberseguridad",
-            "Open Source"
+            "Front-end",
+            "React"
+            "Backend"
         ]
     
     def say_hi(self):
